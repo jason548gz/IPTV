@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",阳江1
+https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w208380369_b3628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",阳江2
+https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w1354173073_b3628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",阳江1
+http://dslive.grtn.cn/yjzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="tvs-4" tvg-name="" tvg-logo="" group-title="地方台",广东影视
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 tvg-id="tvs-0" tvg-name="" tvg-logo="" group-title="地方台",广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="Guangdongzongyi4k" tvg-name="" tvg-logo="" group-title="地方台",广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 tvg-id="tvs-3" tvg-name="" tvg-logo="" group-title="地方台",广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="" tvg-logo="" group-title="地方台",广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="tvs-2" tvg-name="南方卫视" tvg-logo="" group-title="地方台",南方卫视
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 tvg-id="tvs-1" tvg-name="" tvg-logo="" group-title="地方台",广东经济科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 tvg-id="zjws" tvg-name="珠江频道" tvg-logo="" group-title="地方台",广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳台",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="" group-title="港澳台",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1,TVB 翡翠台
+http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+#EXTINF:-1,有线综合娱乐台
+http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
+#EXTINF:-1 tvg-logo="",有线新闻台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,港台电视31
+http://rthklive1-lh.akamaiHD.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1,港台电视32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+#EXTINF:-1,新传媒5频道
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1,新传媒8频道
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1,新传媒U频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
